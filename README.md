@@ -2,7 +2,7 @@
 
 my actual name is **Davi**
 
--im studying how to make progams
+-im studying how to develop progams
 -i learning to understand the computer language
 
 -my e-mail is down there.
