@@ -2,9 +2,9 @@
 
 my actual name is **Davi**
 
--im studying how to develop progams
--i learning to understand the computer language
+- im studying how to develop progams
+- i learning to understand the computer language
 
--my e-mail is down there.
+- my e-mail is down there.
 
 davi.calcado.barbosa@escola.pr.gov.br
